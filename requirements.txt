@@ -1,0 +1,8 @@
+langchain
+numpy
+streamlit
+langchain-community
+streamlit
+sentence-transformers
+langchain-huggingface
+faiss-cpu
