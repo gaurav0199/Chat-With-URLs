@@ -20,7 +20,7 @@ This project is built using **Streamlit**, **LangChain**, **FAISS**, and other s
 Before running the project, ensure you have the following installed:
 - Python 3.8+
 - Streamlit
-- Required Python libraries (listed below)
+- Required Python libraries
 - HuggingFace API key for embedding and model inference
 
 ## Installation
